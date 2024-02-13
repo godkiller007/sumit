@@ -24,9 +24,10 @@ stage('test') {
 
 steps {
 
-echo "this is testing phase" }
-	}
+echo "this is testing phase" 
 }
+	}
+
 
 stage('deploy'){
 
@@ -35,4 +36,4 @@ steps {
 echo "this is deploy phase"
 			}
 		}
-}
+
