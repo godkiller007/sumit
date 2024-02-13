@@ -35,5 +35,4 @@ steps {
 echo "this is deploy phase"
 			}
 		}
-	}
 }
